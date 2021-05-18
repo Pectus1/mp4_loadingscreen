@@ -6,11 +6,10 @@ author 'Mailar#6308'
 description 'mp4_loadingscreen'
 version '1.0.0'
 
-loadscreen 'index.html'
+loadscreen 'ui/index.html'
 
 files {
-    'index.html',
-    'style.css',
-    'script.js',
+    'ui/index.html',
+    'ui/style.css',
 }
 
