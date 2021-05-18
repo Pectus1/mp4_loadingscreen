@@ -11,5 +11,6 @@ loadscreen 'ui/index.html'
 files {
     'ui/index.html',
     'ui/style.css',
+    'ui/default.mp4',
 }
 
